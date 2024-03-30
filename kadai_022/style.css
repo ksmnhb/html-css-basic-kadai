@@ -41,7 +41,6 @@ header{
 h2{
   font-size: 25px;
   border-bottom: 3px dotted rgb(236,122,122);
-  color: rgb(239,111,139);
 }
 
 h2::before{
@@ -83,6 +82,13 @@ main{
   #parent {
     display: block;
   }
+  h2{
+    font-size: 30px;
+  }
+  p{
+    font-size: 25px;
+  }
   
+
 }
   
